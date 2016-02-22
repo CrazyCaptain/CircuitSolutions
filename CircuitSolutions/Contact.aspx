@@ -77,8 +77,20 @@
 	<div class="container" style="margin-top:100px;">
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="header-text">Contact Us</h2>
+               <h2 class="header-text">Contact Us</h2>
 				<hr>
+				
+				<div style="padding-bottom:80px;">
+				<p>Unit 14B Belvedere Tower No. 15 San Miguel Avenue, Ortigas Center, Pasig City <br>
+				   Tel. Nos: 635.58.83, 910.34.30 to 33 <br>
+				   Fax No: 631.05.30
+				</p>
+				
+				<p>info@circuit-solutions.net <br>
+				    custumercaresupport@circuit-solutions.net</p>
+				<hr>
+
+				</div>				
             </div> 
 			  <div class="form-group">
                 <div class="col-md-8">
