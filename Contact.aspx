@@ -50,7 +50,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="">Home</a>
+                        <a href="index.html">Home</a>
                     </li>
                     <li class="page-scroll">
                         <a href="Products.html">Products</a>
