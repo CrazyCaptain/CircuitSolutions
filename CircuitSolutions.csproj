@@ -183,6 +183,7 @@
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Contact.aspx" />
+    <Content Include="Contact.html" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\carousel.css" />
     <Content Include="css\freelancer.css" />
